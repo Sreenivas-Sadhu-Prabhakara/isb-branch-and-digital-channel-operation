@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-branch-and-digital-channel-operation
+description: "BIAN Service Domain: Branch And Digital Channel Operation (Operate pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - operate
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Shared Operations"
+  isb/asset-type: "Channel Session"
+  isb/control-record: "Channel Session Operating Session"
