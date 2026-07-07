@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sreenivas-sadhu-prabhakara.github.io/isb-branch-and-digital-channel-operation/sitemap.xml
